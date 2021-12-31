@@ -1,0 +1,44 @@
+.container {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+    background-color: #000000;
+    padding: 20px;
+}
+
+.content {
+    background-color: rgb(204, 204, 204);
+    margin: 0;
+    padding: 20px;
+    padding-top: 0px;
+}
+
+.header {
+    text-align: center;
+    font-size: 100%;
+    padding-bottom: 25px;
+}
+
+.header h1 {
+    padding-top: 10px;
+}
+
+.header h2 {
+    padding-top: -25px;
+}
+
+.header img {
+    width: 100%;
+    border-radius: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 25px;
+}
+
+#button {
+    width: 100%;
+    font-size: 150%;
+}
+
+.citacoes li {
+    padding-bottom: 5px;
+}
